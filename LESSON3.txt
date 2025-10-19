@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>LESSON2</title>
+<link rel="stylesheet" href="DESIGN.css" type="text/css">
+<style tpe="text/css">
+
+ .buddy { font-family: "Arial", sans-serif;background-color:#400080; text-align:center;}
+
+ .heading{ font-family:"Lucida Handwriting",Cursive; color:#26004d;text-align:center;}
+
+ .pe{font-family: "Lucida Handwriting",Cursive; text-align:center; font-size:30px;}
+
+.custom-font{font-family: font-family: "Arial", sans-serif;font-size:10spx;}
+</style>
+</head>
+
+
+<body class="buddy">
+<a href="E-Portfolio.html">
+<img src="HOME.jpeg" alt="home" class="image" width="100px" height="100px">
+</a>
+
+
+<div style=" border:3px solid black; width:90%; height:80px; margin-top:20px; margin-left: 5%;border-radius:10px;background-image: linear-gradient(to bottom, #c28af0,#69006b );">
+<h1 class="heading"> LESSON 3 CSS </h1>
+</div>
+
+
+<h2 class="pe">Inline Style Sheets
+</h2>
+

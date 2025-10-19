@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>LESSON5</title>
+<link rel="stylesheet" href="DESIGN.css" type="text/css">
+<style tpe="text/css">
+
+ .buddy { font-family:Arial;background-color:#400080; text-align:center;color:Lavender;}
+
+ .heading{ font-family:"Lucida Handwriting",Cursive; color:#26004d;text-align:center;}
+
+ .pe{font-family: "Lucida Handwriting",Cursive; text-align:center; font-size:30px;background-color:Purple; color:Lavender;}
+
+ .custom-font{font-family: font-family: "Arial", sans-serif;font-size:10spx;}
+</style>
+</head>
+
+<body class="buddy">
+<a href="E-Portfolio.html">
+<img src="HOME.jpeg" alt="home" class="image" width="100px" height="100px">
+</a>
+
+
+<div style=" border:3px solid black; width:90%; height:80px; margin-top:20px; margin-left: 5%;border-radius:10px;background-image: linear-gradient(to bottom, #c28af0,#69006b );">
+<h1 class="heading"> LESSON 5 </h1>
+</div>
+
+
+<div style=" border:2px solid black; width:100%; height:2200px; float:left; border-radius:10px;background-image: linear-gradient(to bottom, #c28af0,#69006b ); margin-top:30px"> 
+
+<h1 class="heading">Iba’t-ibang Estraktura ng Pamilihan</h1>
+
+<p class="buddy">
+ Ang nagsisilbing lugar kung saan nakakamit ng isang konsyumer ang sagot sa marami niyang pangangailangan at kagustuhan sa pamamagitan ng mga produkto at serbisyong handa at kaya niyan ikonsumo.
+</p>
+
+
+<h1 class="heading">PAMILIHAN
+</h1>
+
+<h1 class="heading">3 ELEMENTO NG ISANG PAMILIHAN
+</h1>
+<ol class="buddy">
+Mamimili<br>
+Prodyuser/negosyante<br>
+Produkto<br>
+</ol>
+
+<h1 class="heading">PAGKAKAIBA NG MGA ANYO/URI NG PAMILIHAN
+</h1>
+<p class="buddy">
+Bilang at laki ng prodyuser o konsyumer
+Uri ng produkto o serbisyo
+Kontrol sa pagpasok sa pamilihan
+Kontrol sa presyo
+Paggamit ng di-presyong kompetisyon
+</p>
+
+<h1 class="heading">URI NG PAMILIHAN
+</h1>
+<p class="buddy">
+Lokal<br>
+Panrehiyon<br>
+Pambansa<br>
+Pandaigdigan<br>
+</p>
+
+<img src="GANAP.webp" alt="demand" width="90%" height="300px" style="margin-left:20px;margin-top:20px;margin-right:20px;">
+
+<h1 class="heading">GANAP NA KOMPETISYON
+</h1>
+<p class="buddy">
+1. Maraming konsyumer at prodyuser sa industriya</br>
+2. Ang mga produkto ng mga kalakalan sa industriya ay magkakatulad</br>
+3. Ang mga kalakalan sa industriya ay tinatawag na price takers</br>
+4. Malayang nakapapasok at nakalalabas ang mga kalakalan sa produksyon</br>
+5. Walang kontrol sa presyo</br>
+
+<h1 class="heading">GANAP NA KOMPETISYON</h1>
+<p class="buddy">
+Isang estruktura ng pampamilihan na kung saan ang indibidwal na kalakalan ay may kontrol sa presyo ng kalakalan
+</p>
+
+
+<img src="DIGANAP.webp" alt="demand" width="90%" height="300px" style="margin-left:20px;margin-top:20px;margin-right:20px;">
+
+<h1 class="heading">DI-GANAP NA KOMPETISYON</h1>
+
+<h1 class="heading">MONOPOLYO
+</h1>
+<p class="buddy">
+Iisa ang prodyuser
+Ang produkto ay walang malapit na kapalit<br>
+Ang monopolista price maker ng produkto
+Napakahirap ang pagpasok ng mga bagong prodyuser sa ganitong pamilihan
+Ang pag-anunsyo sa produk to ay maaaring gamitin o hindi
+</p>
+
+<h1 class="heading">OLIGOPOLY
+</h1>
+<p class="buddy">
+Kakaunti lamang ang mga prodyuser sa industriya
+Ang mga produkto ay maaaring magkakatulad o magkakaiba
+Malaki ang kontrol ng mga kalakalan pagdating sa presyo
+Mahirap ang papasok ng mga bagong prodyuser sa ganitong pamilihan
+Gumagastos ng malaki ang mga kalakalan sa pag-aanunsyo, pananaliksik,& pag-unlad
+</p>
+
+<h1 class="heading">MONOPOLISTIC COMPETITION
+</h1>
+
+<p class="buddy">
+May katamtamang dami ng mga prodyuser at konsyumer
+Ang mga industriya ay agresibong nakikipagkompetensya sa isa’t isa
+Mayroong malawakang pag-aanunsyo
+May kaunting control sa presyo dahilan sa pagkakaiba-iba ng produkto
+Madali ang pagpasok ng mga bagong prodyuser kung ikukumpara sa monopoly at oligopoly.
+</p>
+<h1 class="heading">MONOPSONY</h1>
+<p class="buddy">
+Mayroon lamang iisang konsyumer ngunit maraming prodyuser ng produkto at serbisyo
+May kapangyarihan ang konsyumer na maimpluwensiyahan ang presyo sa pamilihan
+</p>
+</div>
+</body>
+</html>
+

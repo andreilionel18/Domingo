@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>LESSON4</title>
+<link rel="stylesheet" href="DESIGN.css" type="text/css">
+<style tpe="text/css">
+
+ .buddy { font-family:Arial;background-color:#400080; text-align:center;color:Lavender;}
+
+ .heading{ font-family:"Lucida Handwriting",Cursive; color:#26004d;text-align:center;}
+
+ .pe{font-family: "Lucida Handwriting",Cursive; text-align:center; font-size:30px;background-color:Purple; color:Lavender;}
+
+.custom-font{font-family: font-family: "Arial", sans-serif;font-size:10spx;}
+</style>
+</head>
+
+<body class="buddy">
+<a href="E-Portfolio.html">
+<img src="HOME.jpeg" alt="home" class="image" width="100px" height="100px">
+</a>
+
+<div style=" border:3px solid black; width:90%; height:80px; margin-top:20px; margin-left: 5%;border-radius:10px;background-image: linear-gradient(to bottom, #c28af0,#69006b );">
+<h1 class="heading"> LESSON 4 CSS </h1>
+</div>
+
+
+<div style=" border:2px solid black; width:100%; height:1500px; float:left; border-radius:10px;background-image: linear-gradient(to bottom, #c28af0,#69006b ); margin-top:30px"> 
+
+<h2 class="pe">CSS Rule
+</h2>
+
+<p class="buddy">
+A CSS rule has two main parts: a selector, and one or
+more list of style declarations.
+</p>
+
+<h2 class="pe">Style Properties
+</h2>
+<ol class="buddy"><strong>Style Properties
+Properties are collected into six groups:</strong>
+
+
+<li> Fonts </li>
+<li> Colors and backgrounds </li>
+<li> Text </li>
+<li> Boxes and layout </li>
+<li> Lists </li>
+<li> Tag classifications </li>
+</ol>
+<h2 class="pe">Classes</h2>
+
+<ul class="buddy"><strong>What are Classes?</strong>
+<li><strong>Class</strong></li>
+ <li>is a user-defined selector.</li>
+ <li>used to apply a style rule to specific HTML tags</li>
+ <li>can control individual HTML element
+ formatting</li>
+ <li>is a reusable style definition that allows you to
+ apply the same set of formatting rules to
+ multiple HTML elements</li>
+</ul>
+<p class="buddy">
+Example: you can create a class only for the
+paragraphs to which you have assigned the class.
+</p>
+  
+<img src="ss1.jpeg" alt="ss2" width="90%" height="300px" style="margin-left:20px;margin-top:20px;margin-right:20px;">
+<img src="ss2.jpeg" alt="ss2" width="90%" height="300px" style="margin-left:20px;margin-top:20px;margin-right:20px;">
+
+<p class="buddy">
+I’ve learned that CSS rules and style properties are the foundation of how we design and control the appearance of web pages. Each CSS rule is made up of a selector and a declaration block that tells the browser which elements to style and how to style them. The style properties, like color, font-size, and margin, allow us to customize the look and layout of each element. Understanding how these rules work together taught me the importance of precision and creativity in web design, since even small changes can greatly affect the overall presentation of a webpage.
+</p>
+
+
+</div>
+</body>
+</html>

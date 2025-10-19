@@ -1,0 +1,8 @@
+.button { padding:.1rem 2rem;  border-radius: 10px;  text-decoration:none;color:#26004d;font-size:30px; background-image: linear-gradient(to bottom, white,purple ); width:40%; height:20%; margin-bottom:30%;}
+
+.button:hover { padding: 1rem 2rem;  border-radius: 10px;  text-decoration:none; color:#26004d;  font-weight:bold;;font-size:40px;background-image: linear-gradient(to bottom, white,purple );  width:40%; height:20%;}
+
+.image {width:50px;height:50px; border: 3px solid black;border-radius: 50%;padding: 2px 1px;background-color: white;}
+
+
+.self {width:5%;height:5%;border: 2px solid black;border-radius: 50%;display:block;margin: auto;}

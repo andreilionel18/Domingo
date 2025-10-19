@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>LESSON6</title>
+<link rel="stylesheet" href="DESIGN.css" type="text/css">
+<style tpe="text/css">
+
+ .buddy { font-family:Arial;background-color:#400080; text-align:center;color:Lavender;}
+
+ .heading{ font-family:"Lucida Handwriting",Cursive; color:#26004d;text-align:center;}
+
+ .pe{font-family: "Lucida Handwriting",Cursive; text-align:center; font-size:30px;background-color:Purple; color:Lavender;}
+
+ .custom-font{font-family: font-family: "Arial", sans-serif;font-size:10spx;}
+</style>
+</head>
+
+<body class="buddy">
+<a href="E-Portfolio.html">
+<img src="HOME.jpeg" alt="home" class="image" width="100px" height="100px">
+</a>
+
+
+<div style=" border:3px solid black; width:90%; height:80px; margin-top:20px; margin-left: 5%;border-radius:10px;background-image: linear-gradient(to bottom, #c28af0,#69006b );">
+<h1 class="heading"> LESSON 6 </h1>
+</div>
+
+
+<div style=" border:2px solid black; width:100%; height:2200px; float:left; border-radius:10px;background-image: linear-gradient(to bottom, #c28af0,#69006b ); margin-top:30px">
+
+
+<h1 class="heading">Bahaging Ginagampanan ng Pamahalaan sa Regulasyon ng mga Pamilihan
+</h1> 
+
+<p class="buddy">
+Ito ay isang mahalagang institusyon sa ating bansa, alinsunod sa itinadhana ng Artikulo II Seksyon 4 ng 1987 konstitusyon ng Pilipinas. Pangunahing tungkulin ng pamahalaan na paglingkuran at pangalagaan ang sambayanan.
+</p>
+
+<img src="FLOOR.png" alt="demand" width="90%" height="300px" style="margin-left:20px;margin-top:20px;margin-right:20px;">
+
+<h1 class="heading">
+ANG PAGKONTROL SA PRESYO NG PAMAHALAAN
+</h1>
+
+<h1 class="heading">
+PRICE CONTROL
+</h1>
+<p class="buddy">
+Pagtatadhana ng pamahalaan ng pinakamababa at pinakamataas na presyong maaaring itakda sa mga produkto at serbisyo
+</p>
+<h1 class="heading">
+REPUBLIC ACT 7581
+</h1>
+<p class="buddy">
+Price Control Act
+Layunin na maisagawa ng pamahalaan ang pagkontrol sa presyo ng mga bilihin
+</p>
+
+<img src="CEILING.png" alt="demand" width="90%" height="300px" style="margin-left:20px;margin-top:20px;margin-right:20px;">
+
+<h1 class="heading">
+ATIONAL PRICE COORDINATION COUNCIL
+</h1>
+<p class="buddy">
+May layunin na mabantayan ang presyo ng mga produkto pagkatapos magpalabas ng price ceiling ang mga pamahalaan
+</p>
+<h1 class="heading">
+PRICE CEILING
+</h1>
+<p class="buddy">
+Ang pinakamataas na presyong tinakda ng pamahalaan upang
+ipagbili ang mga produkto
+Isinasagawa ng pamahalaan upang tulungan at bigyang proteksyon ang mga mamimili laban sa mga abusado at mapagsamantalang mga negosyante
+Itinatakda ito na mas mababa sa equilibrium price na umiral sa pamilihan
+</p>
+<h1 class="heading">
+PRICE SUPPORT
+</h1>
+<p class="buddy">
+Isinasagawa ng pamahalaan upang tulungan at bigyang proteksyon ang mga prodyuser upang mabayaran ang mga gastos ng produksyon
+</p>
+<h1 class="heading">
+FLOOR PRICE
+</h1>
+<p class="buddy">
+Pinakamababa na presyong tinakda ng pamahalaan upang ipagbili ang mga produkto
+Itinatakda ito na mas mataas sa equilibrium price na umiral sa pamilihan .
+</p>
+</div>
+</body>
+</html>

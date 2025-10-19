@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>LESSON2</title>
+<link rel="stylesheet" href="DESIGN.css" type="text/css">
+<style tpe="text/css">
+
+ .buddy { font-family: "Arial", sans-serif;background-color:#400080; text-align:center;}
+
+ .heading{ font-family:"Lucida Handwriting",Cursive; color:#26004d;text-align:center;}
+
+ .pe{font-family: "Lucida Handwriting",Cursive; text-align:center; font-size:30px;}
+
+.custom-font{font-family: font-family: "Arial", sans-serif;font-size:10spx;}
+</style>
+</head>
+
+<body class="buddy">
+<a href="E-Portfolio.html">
+<img src="HOME.jpeg" alt="home" class="image" width="100px" height="100px">
+</a>
+
+<div style=" border:3px solid black; width:90%; height:80px; margin-top:20px; margin-left: 5%;border-radius:10px;background-image: linear-gradient(to bottom, #c28af0,#69006b );">
+<h1 class="heading"> LESSON 2 CSS </h1>
+</div>
+
+<div style=" border:2px solid black; width:100%; height:6000px; float:left; border-radius:10px;background-image: linear-gradient(to bottom, #c28af0,#69006b ); margin-top:30px"> 
+<ul class="custom-font"><strong>What will we use in CSS?
+</strong>
+<li>Curly braces { }</li>
+ <li>Colons :</li>
+<li>Semi Colons ;</li>
+<li>Selectors</li>
+<li>Declarations</li>
+</ul>
+
+<img src="STRUCTURE.jpeg" alt="STRUCTURE" width="90%" height="30%" style="margin-left:20px;margin-top:20px;margin-right:20px;">
+<ul class="custom-font"><strong>Structure of CSS</strong>
+
+<h2 class="pe">Selector</h2>
+<ul>
+<li>the HTML element you want to style; is a
+ pattern used to "find" or "select" the HTML
+ elements on a webpage to which a set of
+ CSS rules will be applied.</li>
+</ul>
+
+<h2 class="pe">Property</h2>
+<ul>
+<li>the style attribute you want to modify; is a
+ named characteristic or attribute that
+ defines a specific aspect of how an HTML
+ element should be displayed or rendered by
+ the browser. Properties are used within
+ CSS declarations to apply styles to selected
+ elements.</li>
+</ul>
+
+
+
+<h2 class="pe">Value</h2>
+<ul>
+<li>the weight of the attribute you want to apply to the
+ element property; is the specific setting or
+ configuration assigned to a CSS property. A property
+ and its value form a CSS declaration, which dictates
+ how an element should be styled</li>
+<ul>
+
+
+<h2 class="pe">Declaration</h2>
+<ul>
+<li>is a single instruction that defines a specific
+ style for am element</li>
+</ul>
+
+
+
+
+<h2 class="pe">Declaration block</h2>
+<ul>
+<li>fundamental part of a CSS rule. It is a
+block of code that contains one or more CSS declarations,
+which define the styling rules for the selected HTML
+element(s).</li>
+</ul>
+
+
+
+
+<h2 class="pe">The Style Sheet and its Parts</h2>
+<ul>
+<li>A set of instructions to a Web browser on how to
+ display various elements on a Web page is known as
+ style sheet</li>
+
+<li>Every CSS (whether it is contained in a .css file, or
+ embedded in the head element of an HTML
+ document) is a series of instructions called
+ statements</li>
+
+</ul>
+
+<h2 class="pe">How Do Style Sheet Work?</h2>
+<ul>
+<li>Style sheets are just text files, or text embedded in the
+ head of an HTML document, that help separate
+ content from appearance. The content of the page goes
+ into an HTML file. And the appearance goes into a
+ style sheet. But how does all this end up as a web
+ page in the reader’s browser?</li>
+
+<li>A style sheet suggests the browser to
+display a page in a particular way, how the
+pages should be displayed in the browser.</li>
+</ul>
+
+
+<h1 class="pe">Three Kinds of CSS</h1>
+
+<h2 class="pe">External Style Sheets</h2>
+<ul>
+<li>the most global of the three kinds of CSS because you
+can apply the same one to an unlimited number of
+pages</li>
+<li>allows you to develop a consistent style across pages</li>
+<li>easily allow you to change the layout of your entire
+web site by simply changing the external style sheet
+and every page is instantly updated</li>
+<li> has a .css file extension </li>
+</ul>
+<h2 class="pe">Embedded Style Sheets (Internal Style Sheets)</h2>
+
+<ul class="custom-font"><strong>used for creating a document-wide style rule</strong>
+<li>placed within an HTML document, between the
+<head> and </head><?li>
+<li>used when you have a page that you want to present
+in a different style from other pages</li>
+<li>embedded style sheets override external style sheets.</li>
+</ul>
+
+<h2 class="pe">Inline Style Sheets</h2>
+
+
+<ul class="custom-font"> <strong>used for isolated changes to a headline, paragraph,
+picture or other element</strong>
+<li>stored directly in the style attributes of the HTML tags</li>
+<li>inline style sheets override external and embedded
+style sheets</li>
+
+
+<h2 class="pe">Inline Style Sheet</h2>
+
+<p>We can define the style for a single element
+using the style attribute. There are various
+tags that have the style attribute that would
+represent its value.</p>
+
+
+
+<h2 class="pe">Embedded Style SheetM</h2>
+
+<p>Embedded styles or Internal style sheets are
+defined by the container tag <style></style> and
+placed within the head part of the HTML file. It
+provides style to the whole HTML file.</p>
+
+<h2 class="pe">Linked Style Sheets</h2>
+
+<ul class="custom-font"><strong>External style sheets or linked styles are made outside
+the HTML file.</strong>
+<li>An external style sheet is linked via <link>. The
+<link> element allows you to establish document
+relationships.</li>
+<li>The <link> element tells the browser to find the
+specific style sheet.</li>
+<li>The <link> element can ONLY be used within the
+<head></head> section of the document.</li>
+<li>The style sheet file does not contain ANY html code; it
+contains only style rules.</li>
+<li>A CSS file (filename.css) is a style sheet that does not
+contain anything but the styles.</li>
+<li>In order for it to take effect, it needs to be linked.</li>
+<li>A linked file is simply just like embedded styles but
+without all the HTML tags.</li>
+<li> Can be written in any text editor and saved with a
+filename extension of .css.</li>
+<li>Using the external/linked style sheets, we can modify
+web pages by just changing one CSS file.</li>
+</ul>
+<h2 class="pe">Creating an External CSS file</h2>
+
+<ol class="custom-font"><strong>The following steps will show how to
+create and test a basic style sheet.</strong>
+<li> Open a blank document in
+Notepad.</li>
+<li>Type the style you want to define.</li>
+<li> On the Menu bar, click File and
+click Save.</li>
+<li>Type your filename with the
+extension .css and change the file
+type to All Files.</li>
+</ol>
+<h2 class="pe">Linking CSS file to HTML file</h2>
+<ol>
+<li>After creating your CSS file, open your HTML
+file.</li>
+<li>Type the following inside the HTML file:
+ <link rel=“stylesheet” href=“sample.css”
+ type=“text/css”>.</li>
+<li>Save your HTML file.</li>
+</ol>
+<h2 class="pe">CSS Comments</h2>
+
+<p>Comments are used to explain the code, and will
+help you edit the source code on a later date.
+Comments are ignored by the browsers, therefore
+you can place notifications, reminders and help
+you increase code readability. A CSS comment
+starts with /* and ends with */. Comments can
+also span multiple lines.</p>
+
+<img src="sample.jpeg" alt="sample" width="90%" height="30%" style="margin-left:20px;margin-top:20px;margin-right:20px;">
+
+<p class="custom-font">
+I learned that inline styles are written directly in the HTML element, making them useful for quick, one-time styling. Embedded stylesheets are placed inside the <style> tag within the HTML file, allowing you to style multiple elements in the same page. External stylesheets are separate CSS files linked to the HTML, which helps keep the code organized and makes it easier to style multiple pages consistently.
+</p>
+
+
+
+</div>
+
+</body>
+</html>
+
+
+
+
+
+
+

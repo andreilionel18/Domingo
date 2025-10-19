@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>LESSON5</title>
+<link rel="stylesheet" href="DESIGN.css" type="text/css">
+<style tpe="text/css">
+
+ .buddy { font-family:Arial;background-color:#400080; text-align:center;color:Lavender;}
+
+ .heading{ font-family:"Lucida Handwriting",Cursive; color:#26004d;text-align:center;}
+
+ .pe{font-family: "Lucida Handwriting",Cursive; text-align:center; font-size:30px;background-color:Purple; color:Lavender;}
+
+.custom-font{font-family: font-family: "Arial", sans-serif;font-size:10spx;}
+</style>
+</head>
+
+<body class="buddy">
+<a href="E-Portfolio.html">
+<img src="HOME.jpeg" alt="home" class="image" width="100px" height="100px">
+</a>
+
+
+<div style=" border:3px solid black; width:90%; height:80px; margin-top:20px; margin-left: 5%;border-radius:10px;background-image: linear-gradient(to bottom, #c28af0,#69006b );">
+<h1 class="heading"> LESSON 5 CSS </h1>
+</div>
+
+
+<div style=" border:2px solid black; width:100%; height:2500px; float:left; border-radius:10px;background-image: linear-gradient(to bottom, #c28af0,#69006b ); margin-top:30px"> 
+
+<h2 class="pe">CSS SELECTORS</h2>
+<p class="buddy">
+CSS selectors are used to “find” or “select” the HTML
+elements that you want to style.
+CSS selectors are divided into 6 types:<br>
+1. Class selector<br>
+2. Element selector or Tag selector<br>
+3. ID selector<br>
+4. Universal selector<br>
+5. Group selector<br>
+6. Attribute selector<br>
+</P>
+
+
+<h2 class="pe">ID Selector
+</h2>
+<ul class="buddy">
+<li>is a style applied to one element in a page.</li>
+<li> normally used once, usually in a page title or the
+ navigation part of the page.</li>
+<li> defined by “#” and uses id attribute of the HTML
+ element.</li>
+<li> ID selector selects the HTML element with a unique
+identifier (id) and adds CSS to it.</li>
+<li>it is not advisable to start an id selector with a
+ number because some browsers do not support it.</li>
+<li> the ID selector is unique and selects one unique
+element</li>
+</ul>
+<h2 class="pe">Universal Selector
+</h2>
+<p class="buddy">
+The universal selector selects every single HTML
+ element on the page. It is written using the asterisk
+ ( * ) character .
+Example css code:
+ * {margin: 0; padding: 0; box-sizing: border-box;}
+</p>
+<h2 class="pe">Group Selector
+</h2>
+<p class="buddy">
+The group selector allows you to select multiple elements and apply
+ the same style to all of them.
+
+ Example css code:
+
+ h1, h2, h3 {color: darkgreen; text-align: center;}
+</p>
+<h2 class="pe">
+Attribute Selector
+</h2>
+<p class="buddy">
+The attribute selector selects elements based on specific
+ attribute values. The syntax for the attribute selector is:
+ Element[attribute]
+
+ Example css code:
+ input[type="text"] {border: 1px solid gray;}
+ input[type="submit"] {background-color: green; color: white;}
+</p>
+
+<h2 class="pe">When to use class selector:
+</h2>
+<p class="buddy">
+Use a class selector when you want to apply the same style
+to multiple elements or when elements share a common
+category or purpose. Use class when styling many
+elements that share the same style — even if they have
+different tags.
+</p>
+<h2 class="pe">When to use ID selector:
+</h2>
+<p class="buddy">
+Use an ID selector when styling a unique element that
+appears only once on a page (like a header, footer, or main
+section).
+</p>
+<h2 class="pe">When to use element/tag selector:
+</h2>
+<p class="buddy">
+Use an element selector to style all occurrences of a specific
+HTML tag.</p>
+
+
+<h2 class="pe">When to use universal selector:
+</h2>
+<p class="buddy">
+Use the universal selector when you want to style all
+elements on the page — for example, to reset margins,
+padding, or box-sizing.
+</p>
+<h2 class="pe">When to use group selector:
+</h2>
+<p class="buddy">
+Use a group selector when different elements share the same
+styling — to avoid repeating code.
+</p>
+
+<h2 class="pe">When to use attribute selector:
+</h2>
+<p class="buddy">
+Use an attribute selector when you want to style elements based
+on their HTML attributes or attribute
+</p>
+
+<img src="ss5.jpeg" alt="ss5" width="90%" height="300px" style="margin-left:20px;margin-top:20px;margin-right:20px;">
+<img src="ss6.jpeg" alt="ss6" width="90%" height="300px" style="margin-left:20px;margin-top:20px;margin-right:20px;">
+
+
+<p class="buddy">
+I’ve learned that CSS selectors are used to target specific HTML elements so we can apply styles to them. They help control which parts of a webpage are affected by certain designs, such as text color, layout, or background. There are different types of selectors like class, ID, and element selectors, each serving a different purpose. Understanding selectors made me realize how important accuracy is in styling because choosing the right selector helps make a webpage organized, consistent, and easier to manage.
+</p>
+
+</div>
+</body>
+</html>

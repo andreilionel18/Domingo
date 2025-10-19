@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>LESSON6</title>
+<link rel="stylesheet" href="DESIGN.css" type="text/css">
+<style tpe="text/css">
+
+ .buddy { font-family:Arial;background-color:#400080; text-align:center;color:Lavender;}
+
+ .heading{ font-family:"Lucida Handwriting",Cursive; color:#26004d;text-align:center;}
+
+ .pe{font-family: "Lucida Handwriting",Cursive; text-align:center; font-size:30px;background-color:Purple; color:Lavender;}
+
+.custom-font{font-family: font-family: "Arial", sans-serif;font-size:10spx;}
+</style>
+</head>
+
+<body class="buddy">
+<a href="E-Portfolio.html">
+<img src="HOME.jpeg" alt="home" class="image" width="100px" height="100px">
+</a>
+
+
+<div style=" border:3px solid black; width:90%; height:80px; margin-top:20px; margin-left: 5%;border-radius:10px;background-image: linear-gradient(to bottom, #c28af0,#69006b );">
+<h1 class="heading"> LESSON 6 CSS </h1>
+</div>
+
+
+<div style=" border:2px solid black; width:100%; height:2500px; float:left; border-radius:10px;background-image: linear-gradient(to bottom, #c28af0,#69006b ); margin-top:30px"> 
+<h2 class="pe">Setting Dimensions
+</h2>
+<p class="buddy">
+CSS can be used to manage dimensions such as
+visibility, width or height of HTML elements.
+</p>
+
+<h1 class="pe">Property for Dimension
+s</h1>
+
+<h2 class="pe">visibility:</h2>
+<p class="buddy">
+visible – 
+default value, the value is
+visible
+</p>
+
+
+<h2 class="pe">visibility hidden</h2>
+<p class="buddy">
+ The element is hidden (but
+still takes up space)
+
+
+<h2 class="pe">visibility collapse</h2>
+<p class="buddy">
+Only for table rows (<tr>),
+row groups (<tbody>), columns (<col>),
+column groups (<colgroup>), and flex items.
+This value removes a row or column as if
+display: none where used.
+If collapse is used on other elements, it
+renders as "hidden"
+</p>
+
+
+<h2 class="pe">width</h2> 
+<p class="buddy">
+Indicates the width 
+</p>
+
+<h2 class="pe">height</h2>
+<p class="buddy">
+Indicates the height 
+</p>
+
+<h2 class="pe">line-height</h2> 
+<p class="buddy">
+Indicates the line spacing 
+</p>
+
+<h2 class="pe">max-height</h2>
+<p class="buddy">
+Indicates the maximum
+height 
+</p>
+
+<h2 class="pe">Pseudo-Classes and Links
+</h2>
+
+<p class="buddy">
+Recall that classes are user-defined selectors that
+can be used to control individual HTML element
+formatting.
+• Pseudo-classes are defined by a colon and are not
+user-defined. Specific pseudo-classes can be used
+on specific HTML elements only.
+• The anchor element has four pseudo-classes: link,
+visited, hover and active. Each one affects the
+behavior of the anchor element.
+</p>
+
+<p class="buddy">
+The link pseudo-class is for hyperlinks that have
+NOT yet visited.
+• The visited pseudo-class is for visited hyperlinks.
+• The hover pseudo-class is for hyperlinks when the
+mouse is hovered over them.
+• The active pseudo-class is for hyperlinks when
+they are clicked.
+</p>
+
+<h2 class="pe">Pseudo-Classes and Links Property & Syntax
+</h2>
+<p class="buddy">
+The order in which the pseudo-classes are stated is
+important.
+• Take note of the LVHA or Link, Visited, Hover,
+Active is the order of the pseudo-classes.
+Note: The value that you place inside {…} will be
+displayed whenever a pseudo-class property is
+performed. You can set the color of the text or
+element, its background, its decoration and many
+other characters.
+</p>
+
+<p class="buddy">
+• Be reminded that the hover property should be
+placed after the link property for it to function
+properly.
+• Pseudo-classes can also be used on any element or
+block elements on the web page, especially the hover
+property, so that, whenever one hovers over an
+image, paragraph or any element, you can set
+properties to make it more interactive. Example is
+changing the font color, setting a background,
+border and many other properties.
+</p>
+
+
+<img src="ss7.jpeg" alt="ss2" width="90%" height="300px" style="margin-left:20px;margin-top:20px;margin-right:20px;">
+<img src="ss8.jpeg" alt="ss2" width="90%" height="300px" style="margin-left:20px;margin-top:20px;margin-right:20px;">
+
+
+<p class="buddy">
+I’ve learned that setting dimensions in CSS is important for controlling the size and layout of elements on a webpage. By using properties like width, height, max-width, and min-height, we can make sure that each element fits properly within the design. It also helps create balance and structure, making the webpage look neat and responsive on different devices. Understanding how to set dimensions taught me how small adjustments can greatly improve the overall appearance and user experience of a website.
+</p>
+</div>
+</body>
+</html>

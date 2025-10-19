@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>LESSON1</title>
+<link rel="stylesheet" href="DESIGN.css" type="text/css">
+<style tpe="text/css">
+
+ .buddy { font-family: "Arial", sans-serif;background-color:#400080; text-align:center;}
+
+ .heading{ font-family:"Lucida Handwriting",Cursive; color:#26004d;text-align:center;}
+
+ .pe{font-family: "Lucida Handwriting",Cursive; text-align:center; font-size:30px;}
+
+.custom-font{font-family: font-family: "Arial", sans-serif;font-size:10spx;}
+</style>
+</head>
+
+
+<body class="buddy">
+<a href="E-Portfolio.html">
+<img src="HOME.jpeg" alt="home" class="image" width="100px" height="100px">
+</a>
+
+<div style=" border:3px solid black; width:90%; height:80px; margin-top:20px; margin-left: 5%;border-radius:10px;background-image: linear-gradient(to bottom, #c28af0,#69006b );">
+<h1 class="heading"> LESSON 1 CSS </h1>
+</div>
+
+<div style=" border:3px solid black; width:99%; height:200px; margin-top:20px;border-radius:10px;background-image: linear-gradient(to bottom, #c28af0,#69006b );">
+
+<ul class="custom-font"><strong>What is CSS?</strong>
+<li>CSS stands for Cascading Style Sheets. </li>
+<li> CSS describes how HTML elements are to be
+displayed on screen, paper, or in other media.</li>
+<li>mCSS saves a lot of work. It can control the layout of
+ multiple web pages all at once.</li>
+<li>External stylesheets are stored in CSS files.</li>
+<li>CSS is the language we use to style a Web page.</li>
+<li>CSS separates content from design, making websites
+easier to maintain and more attractive.</li>
+
+
+</ul>
+</div>
+
+
+<div style=" border:3px solid black; width:99%; height:200px; margin-top:20px;border-radius:10px;background-image: linear-gradient(to bottom, #c28af0,#69006b );">
+<ul class="custom-font"><strong>Why use CSS?
+</strong>
+<li>CSS is used to define styles for your web pages,
+including the design, layout and variations in
+display for different devices and screen sizes.</li>
+<li>Provides consistency across web pages.</li>
+<li> Saves time: one CSS file can control multiple
+pages</li>
+<li>Improves accessibility and responsiveness</li>
+<li> Enhances design with layout, colors, and
+animations.</li>
+</ul>
+</div>
+
+
+<div style=" border:3px solid black; width:99%; height:200px; margin-top:20px;border-radius:10px;background-image: linear-gradient(to bottom, #c28af0,#69006b );">
+
+<h1 class="heading" style="font-size:50px;"> The layers of a webpage: </h1>
+<h2 class="heading"> CONTENT LAYER </h2>
+
+
+</div>
+<div style=" border:3px solid black; width:99%; height:200px; margin-top:20px;border-radius:10px;background-image: linear-gradient(to bottom, #c28af0,#69006b );">
+<ul class="custom-font"><strong>The content layer is where you:
+</strong>
+ <li>define and layout the text, images, animation, sound,
+ video and everything you want to put in a web page
+ with the use of tags</li><br>
+
+<li> is the underlying HTML code of that page. Just as a
+ house's frame creates a strong foundation upon which
+ the rest of the house is built, a solid foundation of HTML creates a platform upon which a website can be cr </li><br>
+
+
+</ul>
+</div>
+
+
+<div style=" border:3px solid black; width:99%; height:200px; margin-top:20px;border-radius:10px;background-image: linear-gradient(to bottom, #c28af0,#69006b );">
+<ul class="custom-font"><strong>The content layer needs to have:
+</strong>
+<li>Text that is easy to understand.</li>
+<li> Text that makes sense without a visual representation(wrong example: “click on the links below”)</li>
+<li> Alternative text for every image, sound piece or videothat is content.</li>
+<li>Text that is fit for the web (KISS, structured intoheaders, paragraphs and lists</li>
+</ul>
+</div>
+
+
+<div style=" border:3px solid black; width:99%; height:500px; margin-top:20px;border-radius:10px;background-image: linear-gradient(to bottom, #c28af0,#69006b );">
+<h1 class="heading">PRESENTATION LAYER</h1>
+<p class="custome-font">
+The presentation layer is where
+ you can define how people see
+ your web.
+</P>
+
+<ul class="custom-font"><strong> Presentation Layer needs to have:
+</strong>
+<li>ensure that text can be zoomed without making the site unusable</li>
+<li>ensure that the interactive elements of the site are easy
+to find</li>
+<li>ensure that images and foreground and background havenough contrast and are unambiguous to the colorblind.</li>
+<li>give the site a consistent navigation</li>
+<li>aid the user through business processes</li>
+<li>separate content into easily understandable units</li>
+
+
+<h1 class="heading">BEHAVIOR LAYER</h1>
+<p class="custome-font">
+The behavior layer is where you have a real-time useinteraction with the web page. The interaction may be simple validation of input or filling out a form or even abig as web-based programs.
+</p>
+<ul class="custom-font"><strong> Behavior Layer needs to have:
+</strong>
+<li>ensure that all the functionality is available to the useregardless of input device</li>
+<li>make the user experience as easy as possible by cuttindown on options until they are necessary</li>
+
+</ul>
+</div>
+
+
+<div style=" border:3px solid black; width:99%; height:900px; margin-top:20px;border-radius:10px;background-image: linear-gradient(to bottom, #c28af0,#69006b );">
+<h1 class="heading">Benefits of using CSS</h1>
+<h2 class="heading">CSS saves a lot of work</h2>
+<p class="custome-font">
+You do not have to code the CSS repeatedly into
+ an HTML file. You just need to write the CSS code
+ once and then reuse the same stylesheet in multiple
+ HTML pages. This saves coding time and space of
+ your hard disk.
+</p>
+<h2 class="heading">Easy maintenance</h2>
+<p class="custome-font">
+You can control the look and layout of several HTML
+ pages at
+</p>
+<h2 class="heading">Adding style to webpage makes it more pleasing to
+ the eye</h2>
+<p class="custome-font">
+Improve the appearance of a website by allowing you to
+ create a much more stylish website since CSS offers
+ a wide array of expressive style capabaleness.
+</p>
+
+
+<h1 class="heading">Capabilities of CSS
+</h1>
+<ol class="custom-font">
+<li>CSS makes your pages easily updateable. CSS
+makes it possible to update the layout of the entire
+page quickly. You can specify a style once and you
+can apply it as many times in your document.</li>
+<li>Position objects on the page. CSS gives you control
+ when placing objects on the page exactly where you
+ want them.</li>
+<li> Layer objects on the page. CSS allows you to
+position objects in three dimensions.</li>
+<li> Create custom tags. CSS allows you to create
+ custom tags to achieve specialized objectives.</li>
+</ol>
+
+<h1 class="heading">Advantages of using CSS</h1>
+<ol class="custom-font">
+<li>Save typing and development time because you have
+ to enter CSS code only once and it can be applied
+ to many HTML scripts</li>
+<li>Download faster because your browser will
+ download only one file once.</li>
+<li>Faster page loading</li>
+<li>You can also have multiple link tags in one document.</li>
+<li>Better design flexibility.</li>
+<li>Easier to maintain and update</li>
+<li> Separation of structure (HTML) and style (CSS).</li>
+</ol>
+
+<h1 class="heading">Prerequisites to learning CSS
+</h1>
+<p class="custome-font">
+You should have a basic knowledge and understanding
+ of HTML or XHTML to continue learning css.
+</p>
+</div>
+
+
+<div style=" border:2px solid black; width:100%; height:450px; float:left; border-radius:10px;background-image: linear-gradient(to bottom, #c28af0,#69006b ); margin-top:30px"> 
+<img src="ss1.jpeg" alt="ss1" width="90%" height="90%" style="margin-left:20px;margin-top:20px;margin-right:20px;">
+
+</div>
+
+
+<div style=" border:2px solid black; width:100%; height:450px; float:left; border-radius:10px;background-image: linear-gradient(to bottom, #c28af0,#69006b ); margin-top:30px"> 
+<img src="ss2.jpeg" alt="ss2" width="90%" height="90%" style="margin-left:20px;margin-top:20px;margin-right:20px;">
+</div>
+
+
+
+
+ <div style=" border:2px solid black; width:100%; height:90px; float:left; border-radius:10px;background-image: linear-gradient(to bottom, #c28af0,#69006b ); margin-top:30px"> 
+
+<p class="custome-font">
+I learned that the three layers of CSS, the content, presentation, and behavior layer, each have their own role in web design. The content layer focuses on the structure and information of a webpage using HTML. The presentation and behavior layers use CSS and JavaScript to control how the page looks and how it responds to user interactions.
+</p>
+
+</div>
+
+
+</body>
+</html>
+

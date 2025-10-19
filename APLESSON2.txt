@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>LESSON2</title>
+<link rel="stylesheet" href="DESIGN.css" type="text/css">
+<style tpe="text/css">
+
+ .buddy { font-family:Arial;background-color:#400080; text-align:center;color:Lavender;}
+
+ .heading{ font-family:"Lucida Handwriting",Cursive; color:#26004d;text-align:center;}
+
+ .pe{font-family: "Lucida Handwriting",Cursive; text-align:center; font-size:30px;background-color:Purple; color:Lavender;}
+
+.custom-font{font-family: font-family: "Arial", sans-serif;font-size:10spx;}
+</style>
+</head>
+
+<body class="buddy">
+<a href="E-Portfolio.html">
+<img src="HOME.jpeg" alt="home" class="image" width="100px" height="100px">
+</a>
+
+
+<div style=" border:3px solid black; width:90%; height:80px; margin-top:20px; margin-left: 5%;border-radius:10px;background-image: linear-gradient(to bottom, #c28af0,#69006b );">
+<h1 class="heading"> LESSON 2 </h1>
+</div>
+
+
+<div style=" border:2px solid black; width:100%; height:1400px; float:left; border-radius:10px;background-image: linear-gradient(to bottom, #c28af0,#69006b ); margin-top:30px"> 
+
+<img src="supply.png" alt="demand" width="90%" height="300px" style="margin-left:20px;margin-top:20px;margin-right:20px;">
+ 
+<h1 class="pe">SUPPLY</h1>
+<p class="buddy">
+Tumutukoy sa dami ng produkto o serbisyo na gustong ibenta ng mga prodyuser sa isang takdang presyo at partikular na panahon
+</p>
+
+<h1 class="pe">SUPPLY</h1>
+SUPPLY SCHEDULE
+<p class="buddy">
+Talahanayan nagpapakita kung gaano karaming produkto o serbisyo ang nais gawin ng mga prodyuser
+</p>
+
+
+<h1 class="pe">SUPPLY</h1>
+SUPPLY FUNCTION
+<p class="buddy">
+Isang matematikal equation na nagpapakita sa relasyon ng dami ng supply at presyo
+Qs= -a + bP
+QS- dami ng suplay
+A- dami ng supply kung ang presyo ay zero
+B- slope
+P- presyo
+</p>
+
+
+
+<h1 class="pe">SUPPLY</h1>
+BATAS NG SUPPLY
+<p class="buddy">
+Kapag tumataas ang presyo, tataas ang dami ng gusto at kayang ibenta, at kapag mababa ang presyo, bababa naman ang dami ng gusto at kayang ibenta (CETERIS PARIBUS)
+</p>
+
+
+<img src="salik.jpg" alt="demand" width="90%" height="300px" style="margin-left:20px;margin-top:20px;margin-right:20px;">
+
+<h1 class="pe">SUPPLY</h1>
+MGA SALIK NA NAKAAAPEKTO SA SUPLAY
+
+
+<p class="buddy">
+Pagbabago sa teknolohiy
+Teknolohiya ay nakatutulong sa mga prodyuser na makabuo ng mas maraming suplay
+
+Pagbabago sa halaga ng mga salik produksiyon
+Sa bawat pagtaas ng presyo ng alinmang salik, mangangahulugan ito ng pagtaas sa kabuuang gastos ng produksyon kaya maaaring bumaba ang suplay
+
+Pagbabago sa bilang ng nagtitinda
+Bandwagon effect
+Kung ano ang mga nauusong produkto ay nahihikayat ang mga prodyuser na magprodyus at magtinda nito
+
+Pagbabago sa presyo ng kaugnay na produkto (complementary at substitue products)
+Naaapektuhan ang parehong produkto
+
+Ekspektasyon sa presyo
+“Kung tataas ang presyo sa hinaharap, maghohoard ang mga prodyuser ngayon”
+
+Okasyon
+
+Panahon o klima
+
+Kalamidad
+
+Dali ng pagkasira o pagkabulok ng produkto
+
+Subsidy o tulong ng pamahalaan.
+</p>
+
+
+</div>
+</body>
+</html>

@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>EVENTS</title>
+<link rel="stylesheet" href="DESIGN.css" type="text/css">
+<style tpe="text/css">
+
+ .buddy { font-family:Arial;background-color:#400080; text-align:center;color:Lavender;border: 4px solid #cc99ff;margin-top:20px; margin-left: 5%;border-radius:10px; margin-right:20px;}
+
+.head{ font-family:Arial;background-color:#400080; text-align:center;color:Lavender;
+
+ .heading{ font-family:"Lucida Handwriting",Cursive; color:#26004d;text-align:center;}
+
+ .pe{font-family: "Lucida Handwriting",Cursive; text-align:center; font-size:30px;background-color:Purple; color:Lavender;}
+
+ .custom-font{font-family: font-family: "Arial", sans-serif;font-size:10spx;}
+</style>
+</head>
+
+<body class="head">
+<a href="E-Portfolio.html">
+<img src="HOME.jpeg" alt="home" class="image" width="100px" height="100px">
+</a>
+
+<div style=" border:3px solid black; width:90%; height:80px; margin-top:20px; margin-left: 5%;border-radius:10px;background-image: linear-gradient(to bottom, #c28af0,#69006b );">
+<h1 class="heading"> EVENTS </h1>
+</div>
+
+
+<div style=" border:2px solid black; width:100%; height:1000px; float:left; border-radius:10px;background-image: linear-gradient(to bottom, #c28af0,#69006b ); margin-top:30px">
+
+<h1 class="heading">BUWAN NG WIKA</h1> 
+ 
+<img src="BNW1.jpg" alt="picture" width="40%" height="20%" style="margin-left:20px;margin-top:20px;margin-right:20px;">
+
+<img src="BNW2.jpg" alt="picture" width="40%" height="20%" style="margin-left:20px;margin-top:20px;margin-right:20px;">
+
+<video width="1500px" height="400px" controls>
+  <source src="buwan.mp4" type="video/mp4">
+</video>
+
+<p class="buddy" style="height:200px;font-size:25px;">
+During the Buwan ng Wika celebration, the most important thing I learned was to value the Filipino language as a symbol of our unity and national identity. I realized that by using and enriching our own language, we show love and respect for our culture. I can apply this in real life by speaking and writing in Filipino with pride and confidence. I actively participated in the event by joining contests and helping in activities that promote our language and culture. If I were to teach this to a classmate, I would explain that language is not only a means of communication but also a bridge that connects us as Filipinos. Events like this are important because they help students appreciate culture, develop discipline, and encourage active participation in school activities.
+</p>
+</div>
+
+<div style=" border:2px solid black; width:100%; height:1000px; float:left; border-radius:10px;background-image: linear-gradient(to bottom, #c28af0,#69006b ); margin-top:30px">
+
+<h1 class="heading">INTRAMS</h1> 
+ 
+<img src="INTRAMS1.jpg" alt="picture" width="40%" height="20%" style="margin-left:20px;margin-top:20px;margin-right:20px;">
+
+<img src="INTRAMS2.jpg" alt="picture" width="40%" height="20%" style="margin-left:20px;margin-top:20px;margin-right:20px;">
+
+<video width="1500px" height="400px" controls>
+  <source src="Intrams.mp4" type="video/mp4">
+</video>
+
+<p class="buddy" style="height:200px;font-size:25px;">
+During the Intramurals, the most important thing I learned was the value of teamwork, sportsmanship, and discipline. I realized that winning is not the only goal, but also learning how to cooperate, respect others, and enjoy the experience. I can apply what I learned in real life by working well with others, staying humble in victory, and being strong in defeat. I actively participated in the event by joining games and supporting my team with enthusiasm and respect. If I were to teach this to a classmate, I would explain that Intrams is not just about sports, but also about building character and unity. Having events like this is important because they promote physical fitness, strengthen friendships, and teach valuable life lessons beyond the classroom.
+</p>
+
+</div>
+
+<div style=" border:2px solid black; width:100%; height:1000px; float:left; border-radius:10px;background-image: linear-gradient(to bottom, #c28af0,#69006b ); margin-top:30px">
+
+<h1 class="heading">SCIENCE</h1> 
+ 
+<img src="SCIENCE1.jpg" alt="picture" width="40%" height="20%" style="margin-left:20px;margin-top:20px;margin-right:20px;">
+
+<img src="SCIENCE2.jpg" alt="picture" width="40%" height="20%" style="margin-left:20px;margin-top:20px;margin-right:20px;">
+
+<video width="1500px" height="400px" controls>
+  <source src="science.mp4" type="video/mp4">
+</video>
+
+<p class="buddy" style="height:200px;font-size:25px;">
+During the Science Month celebration, the most important thing I learned was how science helps us understand the world and improve our daily lives. I realized that science is not just about experiments and formulas, but about curiosity, discovery, and innovation. I can apply what I learned in real life by being more observant, asking questions, and finding solutions to everyday problems using scientific thinking. I actively participated in the event by joining activities and supporting projects that promote awareness and love for science. If I were to teach this to a classmate, I would explain that science encourages us to explore and think critically about how things work. Having events like Science Month is important because it inspires students to appreciate the role of science in shaping a better and more sustainable future.
+</p>
+
+</div>
+
+<div style=" border:2px solid black; width:100%; height:1000px; float:left; border-radius:10px;background-image: linear-gradient(to bottom, #c28af0,#69006b ); margin-top:30px">
+
+<h1 class="heading">AP</h1> 
+ 
+<img src="AP.jpg" alt="picture" width="40%" height="20%" style="margin-left:20px;margin-top:20px;margin-right:20px;">
+
+<img src="FLAG.jpeg" alt="picture" width="40%" height="20%" style="margin-left:20px;margin-top:20px;margin-right:20px;">
+
+<video width="1500px" height="400px" controls>
+  <source src="apmonth.mp4" type="video/mp4">
+</video>
+
+<p class="buddy" style="height:200px;font-size:25px;">
+During the AP Month celebration, the most important thing I learned was to appreciate our history, culture, and the struggles that shaped our nation. I realized that understanding the past helps us become more responsible and aware citizens. I can apply what I learned in real life by respecting our heritage, following the laws, and contributing positively to my community. I actively participated in the event by joining activities that showcased Filipino culture and history. If I were to teach this to a classmate, I would explain that Araling Panlipunan is about learning who we are as a people and how we can build a better nation together. Having events like AP Month is important because it strengthens our love for the country and reminds us of our role in preserving our identity and values.</p>
+
+</div>
+
+<div style=" border:2px solid black; width:100%; height:1350px; float:left; border-radius:10px;background-image: linear-gradient(to bottom, #c28af0,#69006b ); margin-top:30px">
+
+<h1 class="heading">TEACHERS DAY</h1> 
+ 
+<img src="TD1.jpg" alt="picture" width="40%" height="20%" style="margin-left:20px;margin-top:20px;margin-right:20px;">
+
+<img src="TD2.jpg" alt="picture" width="40%" height="20%" style="margin-left:20px;margin-top:20px;margin-right:20px;">
+
+<video width="1500px" height="400px" controls>
+  <source src="TEACHERSDAY.mp4" type="video/mp4">
+</video>
+
+<p class="buddy" style="height:200px;font-size:25px;">
+During the Teacher’s Day celebration, the most important thing I learned was to appreciate and honor the hard work and dedication of our teachers. I realized that teachers play a big role in shaping our future by guiding, inspiring, and helping us reach our goals. I can apply what I learned in real life by showing respect, gratitude, and cooperation to my teachers every day. I actively participated in the event by joining performances and activities that expressed our love and appreciation for them. If I were to teach this to a classmate, I would explain that Teacher’s Day is a special time to give back and recognize the efforts of those who educate us. Having events like this is important because it builds stronger relationships between students and teachers and reminds us to value education and the people who make it possible.
+</p>
+
+<p class="buddy" style="height:200px;font-size:52px;">
+I would like to thank all of this persons that I mentioned from giving me the photos and videos.Ang paham,teachers day celebration,
+Alissons photo,Fidel intrams.
+</p>
+</div>
+
+
+</body>
+</html>
+
